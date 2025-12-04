@@ -1,0 +1,53 @@
+{
+  "outfits": [
+    {
+      "id": 1,
+      "name": "Classic Black",
+      "color": "#1a1a1a",
+      "description": "A timeless choice that exudes elegance and sophistication. Perfect for any occasion.",
+      "category": "formal",
+      "tags": ["elegant", "timeless", "professional"]
+    },
+    {
+      "id": 2,
+      "name": "Navy Blue",
+      "color": "#001f3f",
+      "description": "Deep navy blue brings a sense of calm confidence. Versatile and refined.",
+      "category": "business",
+      "tags": ["professional", "versatile", "sophisticated"]
+    },
+    {
+      "id": 3,
+      "name": "Charcoal Grey",
+      "color": "#36454f",
+      "description": "Neutral charcoal grey offers balance and modern appeal. A contemporary choice.",
+      "category": "casual",
+      "tags": ["modern", "neutral", "contemporary"]
+    },
+    {
+      "id": 4,
+      "name": "Deep Burgundy",
+      "color": "#800020",
+      "description": "Rich burgundy adds warmth and personality. Bold yet elegant.",
+      "category": "formal",
+      "tags": ["bold", "elegant", "statement"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "formal",
+      "name": "Formal",
+      "description": "Elegant and sophisticated outfits for special occasions"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "description": "Professional and polished looks for the workplace"
+    },
+    {
+      "id": "casual",
+      "name": "Casual",
+      "description": "Relaxed and comfortable everyday styles"
+    }
+  ]
+}
